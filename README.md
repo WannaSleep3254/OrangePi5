@@ -19,9 +19,12 @@ https://drive.google.com/drive/folders/1Bre2q0bGgXQuQlYaYDMvwstpvtHLmcgX
 ### Utility
 Usage | Name | Link
 ------ | ------ | ------
-Fomat Disk| SD Card Formatter | [[링크](https://www.sdcard.org/downloads/formatter/)]  
-write Disk| Win32 Disk Imager | [[링크](https://win32diskimager.org/)]
+**Fomat Disk**| SD Card Formatter | [[링크](https://www.sdcard.org/downloads/formatter/)]  
+**write Disk**| Win32 Disk Imager | [[링크](https://win32diskimager.org/)]
 
 ### Boot for SD Card
-
+1. format SD card
+2. Download OS image (*.iso)
+3. write OS Iamge to SD card
+4. 
 ### Boot for NVME SSD
