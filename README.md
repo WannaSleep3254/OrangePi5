@@ -17,8 +17,10 @@ https://drive.google.com/drive/folders/1Bre2q0bGgXQuQlYaYDMvwstpvtHLmcgX
 
 ## Install
 ### Utility
-Fomat: SD Card Formatter [[링크](https://www.sdcard.org/downloads/formatter/)]
-ISO : https://win32diskimager.org/
+Usage | Name | Link
+------ | ------ | ------
+Fomat | SD Card Formatter | [[링크](https://www.sdcard.org/downloads/formatter/)]  
+ISO write | Win32 Disk Imager | [[링크](https://win32diskimager.org/)]
 ### SD카드
 
 ### NVME SSD
